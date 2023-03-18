@@ -1,4 +1,4 @@
-# My-Code-Repository
+# Java project on JDBC (Java Database connectivity)
 
 1.	Write a program (in java or any other language) to access and manage the contents of database tables. Follow the following steps to set your computer for the assignment and accomplish the goal.
 
